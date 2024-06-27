@@ -42,5 +42,4 @@ while True:
    choice = input("Enter Q to quit, or any other key to continue: ")
    if choice.lower() == 'q':
        break
-
-
+#Made by danilo.zs
