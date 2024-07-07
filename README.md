@@ -17,4 +17,6 @@ After displaying the result, the program asks the user whether they want to
 continue or exit. If 'Q' (or 'q') is entered, the program ends; otherwise it
 repeats. (Q and q stand for quit).
 
+All this process is called Algor mortis.
+
 Made by danilo.zs
