@@ -6,7 +6,7 @@ the calculations of body temperature after death (TOD).
 The program begins by greeting the user and explaining its purpose. It then asks
 the user to enter the number of hours the body has been dead. The algorithm uses
 a normal body temperature of 98.6°F and a cooling rate of 1.4°F per hour for the
-first 11 hours and p.7°F per hour thereafter.
+first 11 hours and 0.7°F per hour thereafter.
 
 Based on the time entered, the program calculates the elapsed time and adjusts
 the body temperature accordingly. If the time is between 1 and 11 hours, it
